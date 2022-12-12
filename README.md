@@ -1,1 +1,3 @@
 # Polynomial-Calculator
+
+The Polynomial Calculator is a program written in C++ that allows users to perform mathematical operations on polynomials with one variable. The program utilizes object-oriented programming and linked lists to store and manipulate the polynomials. It relies on the linked list data structure to efficiently store and manipulate the polynomial coefficients and exponents. The program is capable of performing addition, subtraction, and multiplication of two polynomials. The program also includes the ability to read and write polynomial data from and to files using C++ file input/output functionality.
